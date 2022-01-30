@@ -5,7 +5,7 @@ Technologies Used:
 •	JS
 •	Bootstrap
 
-Steps:
+<p1>Steps:<p1>
 •	Go to this [site](https://abhijithhegde.github.io/TRINIT_The-Enforcers_DEV04/).
 •	This will take you to the People Website.
 •	Sign in with your Microsoft account/create one.
