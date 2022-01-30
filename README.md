@@ -20,4 +20,4 @@ Features:
 
 Note:
 Although Its Just redirecting, there are some paid APIs Which can do the job.
-But this is the simplest way you can find someone by their email id. You can find more info about this [here](https://www.google.com).
+But this is the simplest way you can find someone by their email id. You can find more info about this [here](https://developer.linkedin.com/).
