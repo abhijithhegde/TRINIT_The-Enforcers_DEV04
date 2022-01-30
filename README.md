@@ -6,7 +6,7 @@ Technologies Used:
 •	Bootstrap
 
 Steps:
-•	Go to this site.
+•	Go to this [site](https://abhijithhegde.github.io/TRINIT_The-Enforcers_DEV04/).
 •	This will take you to the People Website.
 •	Sign in with your Microsoft account/create one.
 •	Then create contact for required mail id.
@@ -20,4 +20,4 @@ Features:
 
 Note:
 Although Its Just redirecting, there are some paid APIs Which can do the job.
-But this is the simplest way you can find someone by their email id. You can find more info about this here[Link to Google](https://www.google.com).
+But this is the simplest way you can find someone by their email id. You can find more info about this [here](https://www.google.com).
